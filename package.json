@@ -1,0 +1,14 @@
+{
+  "name": "serverless-shogi-ai",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "serverless-offline": "^3.24.5"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.248.1",
+    "express": "^4.16.3",
+    "serverless-http": "^1.5.5"
+  }
+}
